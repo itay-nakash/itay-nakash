@@ -2,9 +2,9 @@
 
 I'm currently a second year student in computer science at the Thechnion 💻
 
+Taking part in the Schulich Leaders Scholarships, and hoping to change the world :wink: 
+
 I love learning new technologies, and experimenting with new projects 🤓
-
-
 
 
 Programming Languages 🚀
