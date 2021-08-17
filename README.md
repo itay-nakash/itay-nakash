@@ -2,7 +2,7 @@
 
 I'm currently a third year student in computer science at the Thechnion 💻
 
-Taking part in the Schulich Leaders Scholarships, and hoping to change the world :wink: 
+Taking part in the Schulich Leaders Scholarships, and would love to hear about project ideas ! 
 
 I love learning new technologies, and experimenting with new projects 🤓
 
