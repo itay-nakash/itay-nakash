@@ -1,6 +1,6 @@
 ### Hi, I'm Itay Nakash 👋 :smiley:
 
-I'm currently a third year student in computer science at the Technion 💻
+CS student at the Technion 💻
 
 Taking part in the Schulich Leaders Scholarships, and would love to hear about project ideas ! 
 
