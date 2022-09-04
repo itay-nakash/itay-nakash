@@ -2,9 +2,9 @@
 
 CS student at the Technion 💻
 
-Taking part in the Schulich Leaders Scholarships, and would love to hear about project ideas ! 
+Taking part in the Schulich Leaders Scholarships, and would love to hear about interesting projects and ideas ! 
 
-I love learning new technologies, and experimenting with new projects 🤓
+I love learning new things, and experimenting with new technologies 🤓
 
 
 Programming Languages 🚀
