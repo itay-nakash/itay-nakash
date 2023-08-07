@@ -31,6 +31,3 @@ Connect with me 📫:
 www.linkedin.com/in/itay-nakash
 
 itaynaka@gmail.com
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itay-nakash&show_icons=true)  
-
