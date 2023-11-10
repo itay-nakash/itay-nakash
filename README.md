@@ -1,20 +1,19 @@
-### Hi 👋, my name is Itay Nakash
-##### CS student at the Technion 💻
+### Hi 👋, I'm Itay Nakash
+##### MSc student in Data Science at the Technion 📊 | Bachelor's in Computer Science 💻
 
+##### 🔍 Current Research: Enhancing sentence representation in NLP.
+##### Advisor: Prof. Roi Reichart
 
-##### NLP Research: research in the fields of domain adaptation and data augmentation.
-##### Advisor: Roi Reichart
-
-Taking part in the Schulich Leaders program, <br />
-and would love to hear about interesting projects and ideas! 
-
-<br />
-Programming Languages: 🚀 
+Part of the Schulich Leaders program, blending academic insights with practical application in technology. <br />
+I'm open to discussing innovative projects and ideas!
 
 <br />
+Programming Languages & Technologies: 🚀 
+
+<br />
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,java,cpp,c&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,java,cpp&perline=4)](https://skillicons.dev)
 
 <br />
 Skills: ⚡
@@ -28,6 +27,6 @@ Skills: ⚡
 <br />
 Connect with me 📫:
 
-www.linkedin.com/in/itay-nakash
+[LinkedIn](www.linkedin.com/in/itay-nakash)
 
-itaynaka@gmail.com
+[Email](mailto:itaynaka@gmail.com)
