@@ -2,8 +2,8 @@
 #### MSc Student in Data Science at the Technion 📊 | BSc in Computer Science 💻
 
 🔍 **Current Research:**
-- Investigating diverse architectures to enhance text representations in NLP, focusing on efficiency and effectiveness.
-- My work explores innovative ways to leverage these representations for more accurate and versatile language processing applications.
+- Exploring methods for vocabulary adaptation to enhance domain-specific efficiency and performance in Large Language Models (LLMs). 
+- Focused on innovating tokenization adaptation techniques to develop efficient and representative vocabularies for new domains on existing LLMs.
 - Advisor: Prof. Roi Reichart
 
 🌟 **Achievements:**
