@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Itay Nakash
-#### MSc Student in Data Science at the Technion 📊 | BSc in Computer Science 💻
+#### MSc in Data Science at the Technion 📊 | BSc in Computer Science 💻
 
 🔍 **Current Research:**
 - Exploring methods for vocabulary adaptation to enhance domain-specific efficiency and performance in Large Language Models (LLMs). 
