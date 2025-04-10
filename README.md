@@ -1,27 +1,26 @@
-### Hi 👋, I'm Itay Nakash
-#### MSc in Data Science at the Technion 📊 | BSc in Computer Science 💻
+### Hi 👋, I'm Itay Nakash  
+#### NLP, AI Security & Safety Researcher @ IBM Research  
+*MSc in Data Science @ Technion 📊 | BSc in Computer Science 💻*
 
-🔍 **Current Research:**
-- Exploring methods for vocabulary adaptation to enhance domain-specific efficiency and performance in Large Language Models (LLMs). 
-- Focused on innovating tokenization adaptation techniques to develop efficient and representative vocabularies for new domains on existing LLMs.
-- Advisor: Prof. Roi Reichart
+**🔗 [Visit My Website](https://itay-nakash.github.io/)**
 
-🌟 **Achievements:**
-- Part of the Schulich Leaders program, blending academic insights with practical application in technology.
-
-
-I'm open to discussing innovative projects and ideas!
+Hey there! I’m Itay Nakash, an AI Research Scientist at IBM.  
+I focus on **safe AI** and **LLM-based agent security**, building and evaluating systems that ensure models act responsibly in real-world scenarios.
 
 ---
 
-#### Programming Languages & Technologies: 🚀
-[![My Skills](https://skillicons.dev/icons?i=py,go,java,cpp&perline=4)](https://skillicons.dev)
-
-#### Skills: ⚡
-[![My Skills](https://skillicons.dev/icons?i=pytorch,git,kubernetes,docker&perline=2)](https://skillicons.dev)
+### 🌟 Achievements  
+- Schulich Leader: bridging deep academic research with practical tech impact  
 
 ---
 
-#### Connect with me 📫:
-- [LinkedIn](www.linkedin.com/in/itay-nakash)
+### 🌊 Outside the Lab  
+I love water and nature — freediving (3:40 breath-hold), surfing, hiking — always chasing balance between tech and the outdoors.
+
+💬 Always open to exciting conversations on AI safety, LLMs, or your next cool idea.
+
+---
+
+### 📫 Connect with me  
+- [LinkedIn](https://www.linkedin.com/in/itay-nakash)  
 - [Email](mailto:itaynaka@gmail.com)
