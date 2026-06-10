@@ -1,6 +1,4 @@
 ### Hi 👋, I'm Itay Nakash  
-#### NLP, AI Security & Safety Researcher @ IBM Research  
-*MSc in Data Science @ Technion 📊 | BSc in Computer Science 💻*
 
 **🔗 [Visit My Website](https://itay-nakash.github.io/)**
 
